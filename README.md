@@ -1,16 +1,46 @@
-## Hi there 👋
+👋 Welcome to Ansepik's GitHub Profile!
+🚀 About Me
+I'm a passionate Python Developer and aspiring Data Scientist with a background in business analytics. My goal is to create efficient, scalable solutions and deliver impactful insights from data. I’m constantly learning new technologies and enhancing my skills in development and data science.
 
-<!--
-**Ansepik/Ansepik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills & Tools
+🛠️Programming Languages & Frameworks:
 
-Here are some ideas to get you started:
+Python (including libraries like Pandas, NumPy, and others for data manipulation and analysis)
+SQL (PostgreSQL, raw SQL queries)
+Django (basic understanding for web development)
+Linux (command line and basic system administration)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️Data Analysis & Science Tools:
+
+Pandas, NumPy (for data manipulation and analysis)
+Jupyter Notebooks (for interactive coding and data visualization)
+Matplotlib & Seaborn (for data visualization)
+Basic machine learning knowledge (scikit-learn)
+
+🛠️Version Control & Collaboration:
+
+Git (including GitHub for version control and collaboration)
+
+🛠️Development & Deployment Tools:
+
+Docker (basic knowledge for containerization)
+Basic understanding of API development with Django
+
+📈 Current Goals
+Building robust data pipelines using Python and SQL.
+Exploring advanced machine learning techniques.
+Contributing to open-source projects and collaborating with the tech community.
+
+🌱 What I'm Learning
+Machine Learning and AI
+Data Engineering
+Advanced SQL & PostgreSQL
+
+🛠️ Featured Projects
+Data Analysis Portfolio: [Coming Soon]
+API Development: [Coming Soon]
+Machine Learning Models: [Coming Soon]
+
+📫 Contact Me
+LinkedIn: SOON
+Email: ansepik@mail.ru
