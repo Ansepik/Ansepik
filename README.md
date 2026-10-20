@@ -34,11 +34,11 @@
 
 ## 🛠️ Featured Projects
 
-| Project             | Status        | Description                                                              |
-| :------------------ | :------------ | :----------------------------------------------------------------------- |
-| **[AnomalyDetector]** | ✅ Live       | Automated anomaly detection for data quality monitoring                  |
-| **DataFlowCollector** | 🚧 Coming Soon | Distributed data collection and structuring pipeline                     |
-| **ScribbleCrate**     | 🚧 Coming Soon | Unstructured text processing utility                                     |
+| Project             | Status                                                                 | Description                                                              |
+| :------------------ | :--------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| **[AnomalyDetector]** | ![Live](https://img.shields.io/badge/LIVE-8A2BE2?style=flat-square&logo=github) | Automated anomaly detection for data quality monitoring                  |
+| **DataFlowCollector** | ![Coming Soon](https://img.shields.io/badge/SOON-FF8C00?style=flat-square) | Distributed data collection and structuring pipeline                     |
+| **ScribbleCrate**     | ![Coming Soon](https://img.shields.io/badge/SOON-FF8C00?style=flat-square) | Unstructured text processing utility                                     |
 
 [AnomalyDetector]: https://github.com/Ansepik/AnomalyDetector
 
