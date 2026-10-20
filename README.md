@@ -1,54 +1,53 @@
-👋 Welcome to Ansepik's GitHub Profile!
+# 👋 Welcome to Ansepik's GitHub Profile
 
-🚀 About Me
+> **Data Analytics Engineer** | Azure Synapse • SQL • Power BI • Python
+> Building scalable pipelines and turning raw data into business insights.
 
-I'm a Systems Analyst with a strong background in business informatics and expertise in process automation, data analysis, and SQL development. I have experience building Telegram bots, optimizing business processes, and working with various analytics tools.
+---
 
-🔧 Skills & Tools
+## 🔧 Core Stack
 
-🛠️Programming Languages & Frameworks:
+### ☁️ Data Engineering & Cloud
+-   **Azure:** Synapse Analytics, Static Web Apps, AAD Authentication
+-   **SQL:** PostgreSQL, MS SQL Server, Advanced ETL/ELT Pipelines
+-   **Python:** Pandas, NumPy, Automation, API Integration
 
-Python (data manipulation, automation, web scraping)
+### 📊 Business Intelligence & Visualization
+-   **Power BI:** DAX (Complex Measures, Time Intelligence), Data Modeling
+-   **Yandex DataLens:** Calculated Columns, Conditional Logic
+-   **Visualization:** Matplotlib, Seaborn
 
-SQL (PostgreSQL, raw queries, ETL processes)
+### ⚙️ Process & Systems
+-   **Modeling:** BPMN, UML
+-   **Automation:** 1C, MS Access, Telegram Bots
+-   **DevOps:** Docker, Git/GitHub Actions
 
-Docker (containerization basics)
+---
 
-Git (version control and collaboration)
+## 🌱 Current Focus
 
-🛠️Data Analysis & Science Tools:
+-   🤖 Machine Learning integration in analytics workflows
+-   ⚡ Advanced SQL performance tuning
+-   🏗️ Cloud-native data architecture patterns
 
-Pandas, NumPy (data manipulation)
+---
 
-MS Excel, Power BI, Yandex DataLens (reporting & dashboards)
+## 🛠️ Featured Projects
 
-Matplotlib, Seaborn (data visualization)
+| Project             | Status        | Description                                                              |
+| :------------------ | :------------ | :----------------------------------------------------------------------- |
+| **[AnomalyDetector]** | ✅ Live       | Automated anomaly detection for data quality monitoring                  |
+| **DataFlowCollector** | 🚧 Coming Soon | Distributed data collection and structuring pipeline                     |
+| **ScribbleCrate**     | 🚧 Coming Soon | Unstructured text processing utility                                     |
 
-🛠️ System & Process Analysis:
+[AnomalyDetector]: https://github.com/Ansepik/AnomalyDetector
 
-BPMN, UML (process modeling)
+---
 
-1C (business process automation)
+## 📫 Contact Me
 
-MS Access (database management)
-
-
-🌱 What I'm Learning
-Machine Learning and AI
-Advanced SQL
-
-
-🛠️ Featured Projects
-
-AnomalyDetector 
-
-DataFlowCollector (coming soon)
-
-ScribbleCrate (coming soon)
-
-
-📫 Contact Me
-
-LinkedIn: SOON
-Email: ansepik@mail.ru
-Telegram: @Ansepik
+| Platform   | Link                          |
+| :--------- | :---------------------------- |
+| 💬 Telegram | [@Ansepik](https://t.me/Ansepik) |
+| 📧 Email    | ansepik@mail.ru               |
+| 🔗 LinkedIn | *Profile link coming soon*    |
